@@ -2,13 +2,6 @@
 class User{
     public $name = "";
     public $level = "";
-    public $filename = "logs.txt";
-    
-    public function __destruct(){
-        file_put_contents(__DIR__ . "/" . $this->filename, request, FILE_APPEND);
-        
-        echo "Thanks You for Using the best NoteKepper!!";
-    }
 }
 
 $users = array(
@@ -32,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 $Token = base64_encode($serialised);
 
                 setcookie("user_token", $Token, time() + 3600, "/");
-                header("Location: dashboard.html");
+                header("Location: ./views/dashboard.html");
                 exit;
             } else {
                 echo "Invalid password!";

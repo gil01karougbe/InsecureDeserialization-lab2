@@ -1,0 +1,2 @@
+GET http://localhost/notes.php
+Cookie: user_token=Tzo0OiJVc2VyIjozOntzOjQ6Im5hbWUiO3M6NToiYWRtaW4iO3M6NToibGV2ZWwiO3M6MTM6IkF1dGhlbnRpY2F0ZWQiO3M6ODoiZmlsZW5hbWUiO3M6ODoibG9ncy50eHQiO30%3D
