@@ -25,7 +25,9 @@ admin:admin
 ```
 ![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/0117bedf-4dce-474a-ad74-b9e1dbde2d42)
 ![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/6552f369-ba38-464c-8037-d11a02118f8c)
-
+Notes Endpoint!!!
+![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/4ddab522-b569-4425-92cf-83d2d44b6f38)
+![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/a24a70e1-fbd0-48fa-9236-037b978a4bf3)
 ### 4-Vulnerability
 ```
 
@@ -50,9 +52,6 @@ echo $Token1;
 ?>
 ```
 ![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/ee403d0c-f105-4679-9009-b83f0d708ab7)
-![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/ceac29d4-e457-47d7-a9e2-5e5424aabec6)
-![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/4ddab522-b569-4425-92cf-83d2d44b6f38)
-![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/a24a70e1-fbd0-48fa-9236-037b978a4bf3)
 ![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/0eba3886-696c-48b6-97e0-31e6befc6c2d)
 RCE!!!
 ![image](https://github.com/gil01karougbe/InsecureDeserialization-lab2/assets/98090770/07032ba2-6d44-4b86-abd9-c1837a1c4e6b)
