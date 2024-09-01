@@ -63,4 +63,5 @@ RCE!!!
 ### 7-Labs
 ```
 Debug(Tryhackme)
+mKingdom(Tryhackme)
 ```
